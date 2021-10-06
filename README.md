@@ -1,10 +1,17 @@
-# Title
+# Improve Business Processes with SAP Workflow Management
 
 ## Description
+This is a free online course to learn about SAP Workflow Management and how it can help you digitize workflows, automate and extend business processes, manage decisions, and gain end-to-end process visibility. 
 
-## Requirements
+In this course, you’ll get an introduction to SAP Workflow Management, learn how to create a workflow from scratch, configure a process template for reuse, enrich it with business rules, and have complete visibility during execution. You’ll also see how to benefit from predefined, live process content packages to accelerate process automation within your organization. In addition, learn how to extend and get insights into business workflows running in SAP S/4HANA or SAP ERP. The course is supplemented by a rich set of exercises that will help you improve and strengthen your learning.
 
-## Download and Installation
+After completing this course, you’ll be able to flexibly tailor your processes to your business needs with SAP Workflow Management.
+
+## Course Requirements
+Basic knowledge of SAP Business Technology Platform
+
+## Developement System Setup
+We will provide a set of exercises for you for most of the units. To do the exercises, you simply need access to a trial account on SAP Business Technology Platform and to set up SAP Workflow Management.It’s quite easy and most of the steps are automated for you via a booster. Please take a few minutes of your time to follow this short tutorial and you are done and ready: [Tutorial: Set Up Workflow Management in Cloud Cockpit (10 min)](https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup.html)
 
 ## Known Issues
 
