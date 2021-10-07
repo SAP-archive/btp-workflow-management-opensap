@@ -13,15 +13,11 @@ Basic knowledge of SAP Business Technology Platform
 ## Developement System Setup
 We will provide a set of exercises for you for most of the units. To do the exercises, you simply need access to a trial account on SAP Business Technology Platform and to set up SAP Workflow Management.It’s quite easy and most of the steps are automated for you via a booster. Please take a few minutes of your time to follow this short tutorial and you are done and ready: [Tutorial: Set Up Workflow Management in Cloud Cockpit (10 min)](https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup.html)
 
-## Known Issues
-
 ## How to obtain support
 
 [Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
-
-## Contributing
 
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
