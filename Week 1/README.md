@@ -8,6 +8,6 @@ This week, the topic is **Introduction and Workflows**, and here we have some ex
 
 - Unit 5: Executing and monitoring your workflows
 
-In case of questions or issues, please get in contact with us via the [chat forum on openSAP](https://open.sap.com/courses/btp2/pinboard)
+In case of questions or issues, please get in contact with us via the [chat forum on openSAP](https://open.sap.com/courses/btp2/pinboard).
 
 Good luck!
