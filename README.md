@@ -9,6 +9,12 @@ In this course, you’ll get an introduction to SAP Workflow Management, learn h
 
 After completing this course, you’ll be able to flexibly tailor your processes to your business needs with SAP Workflow Management.
 
+## Exercises
+
+In each week there are a set of exercises prepared for you. We will provide access to the exercises at the beginning of each week. Please be invited to do them.
+Here are the links to the published exercises:
+- **Week 1[https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201]**
+
 ## Course Requirements
 Basic knowledge of SAP Business Technology Platform
 
@@ -18,7 +24,6 @@ We will provide a set of exercises for you for most of the units. To do the exer
 ## How to obtain support
 
 In case of questions or issues, please get in contact with us via the [chat forum on openSAP](https://open.sap.com/courses/btp2/pinboard).
- 
 
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
