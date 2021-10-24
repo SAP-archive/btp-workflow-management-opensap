@@ -1,6 +1,6 @@
 ## First week of "Improve Business Processes with SAP Workflow Management"
 
-This week, the topic is **Introduction and Workflows**, and here we have some exercises for you (_will be available by Monday, Oct 25_):
+This week, the topic is **Introduction and Workflows**, and here we have some exercises for you:
 
 - [Unit 3: Setting up your development landscape](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201/Unit%203)
 
