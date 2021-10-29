@@ -31,6 +31,8 @@ Follow the tutorial to setup your account using Booster:
 
 https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup.html
 
+> as soon as you have completed the tutorial (which are only 2 steps: 1. Open Trial Account; 2. Set up your account using Booster) come back to the exercise document. DONOT CONTINUE WITH NEXT STEPS in the tutorial above. 
+
 <img src="images/setup-booster-1.png" width="600">
 
 ## Configure Destination <a name="section1-configure"></a>
@@ -45,7 +47,8 @@ https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup.
       - Click **Edit** and enter your trial user password
 6. Click **Save** 
       
-> Caution: Ensure that the Two Factor Authentication is disabled for the user whose username and password are entered in the destination configuration. If not, then register a new user with 2FA disabled. 
+> -  Ignore the check connection issues like 401, 404. This is an issue with Destination service. If you see a green icon then it means connection is successful. 
+> - Caution: Ensure that the Two Factor Authentication is disabled for the user whose username and password are entered in the destination configuration. If not, then register a new user with 2FA disabled. 
       
   <img src="images/setup-destination-1.png" width="800">
       
@@ -76,12 +79,13 @@ https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup.
       <img src="images/setup-import-5.png" width = "600">
       
    
-    > In the **Import Package** popup that comes, click on **Import** to continue. 
+    > - In the **Import Package** popup that comes, click on **Import** to continue. 
        > <img src="images/setup-import-51.png" width = "400">
       
-    > Wait for the content to import. It will take 2-3 minutes for the content to be imported.
+    > - Wait for the content to import. It will take 2-3 minutes for the content to be imported.
        > <img src="images/setup-import-52.png" width = "400">
     
+    > - If you get issue of **User credentials provided in the WM_CF_SPACE_PROVIDER destination are invalid**, then follow the Troubleshooting below to setup the business rules in an alternative way.  
 
 9.	Click on **My Live Processes** link on top left to go back the to Live Processes dashboard.
     > Once the content is import successfully, you will see the *Import* button changes to *Configure*.
@@ -142,3 +146,4 @@ https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup.
 
   > Wait for the successful deployment message to appear on the screen. 
 
+  > - You will NOT see the sample package in flexibility cockpit after completing the troubleshootin. The intension behind importing the content package from process flexibility was to deploy the business rules. The method in troubleshooting is another way of deploying the business rules (where you explicitly import the rules project and deploy)
