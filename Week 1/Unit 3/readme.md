@@ -146,4 +146,4 @@ https://developers.sap.com/tutorials/cp-starter-ibpm-employeeonboarding-1-setup.
 
   > Wait for the successful deployment message to appear on the screen. 
 
-  > - You will NOT see the sample package in flexibility cockpit after completing the troubleshootin. The intension behind importing the content package from process flexibility was to deploy the business rules. The method in troubleshooting is another way of deploying the business rules (where you explicitly import the rules project and deploy)
+  > - You will NOT see the sample package in flexibility cockpit after completing the troubleshooting. The reason behind importing the content package from process flexibility cockpit was to deploy the business rules. The method in troubleshooting is another way of deploying the business rules (where you explicitly import the rules project and deploy)
