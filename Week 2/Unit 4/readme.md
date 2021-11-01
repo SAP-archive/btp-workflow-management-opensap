@@ -392,7 +392,7 @@ In this exercise, you will learn about different enterprise rule models and how 
 
 ### Import Decision Table Data From Microsoft Excel <a name="section1-importdt"></a>
 
-1. Download the **DetermineApproversRule** excel in your local folder from same GitHub location. 
+1. Download the **DetermineApproversRule** excel in your [local folder from same GitHub location](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%204/files). 
 
 
 2. You will have to update the **Project ID** and **Rule ID** in the excelsheet. For this, you have to go back to the **Manage Rule Projects** application and get these IDs as follows:
