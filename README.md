@@ -19,7 +19,7 @@ Here are the links to the published exercises:
   - [Unit 5: Executing and monitoring your workflow](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201/Unit%205)
 - **[Week 2: Process Flexibility and Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202)** (*available by Monday, Nov 1*)
   - [Unit 1: Creating a Process Template](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%201)
-  - [Unit 3: Developing Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%204)
+  - [Unit 3: Developing Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%203)
 - Week 3 (*will follow*)
 
 ## Course Requirements

@@ -4,7 +4,7 @@ This week, the topic is **[Process Flexibility and Business Rule](https://open.s
 
 - [Unit 1: Creating a Process Template](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%201)
 
-- [Unit 3: Developing Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%204)
+- [Unit 3: Developing Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%203)
 
 In case of questions or issues, please get in contact with us via the [chat forum on openSAP](https://open.sap.com/courses/btp2/pinboard).
 
