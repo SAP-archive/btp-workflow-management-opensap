@@ -5,8 +5,8 @@ This is the final week, and the topic we’ll be covering is **Process Flexibili
 Here are the units you can look forward to:
 
 - Unit 1: Achieving end-to-end process visibility
-- Unit 2: Building a process visibility scenario end-to-end
-- Unit 3: Creating and consuming live process content packages
+- [Unit 2: Building a process visibility scenario end-to-end](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%203/Unit%202)
+- [Unit 3: Creating and consuming live process content packages](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%203/Unit%203)
 - Unit 4: Extensions and insights for business workflows
 - Unit 5: Summary
 
