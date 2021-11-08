@@ -2,7 +2,7 @@
 
 ## Prerequisite
 
-You have created a workflow as explained in the exercise in week 1, unit 4 which will be the basis of the process template.
+You have created a workflow as explained in the [exercise in week 1, unit 4](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201) which will be the basis of the process template.
 
 ## Table of Contents
 - [1. Open SAP Business Application Studio](#section1)
