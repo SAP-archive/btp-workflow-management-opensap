@@ -17,10 +17,12 @@ Here are the links to the published exercises:
   - [Unit 3: Setting up your development landscape](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201/Unit%203)
   - [Unit 4: Building a workflow from scratch](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201/Unit%204)
   - [Unit 5: Executing and monitoring your workflow](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%201/Unit%205)
-- **[Week 2: Process Flexibility and Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202)** (*available by Monday, Nov 1*)
+- **[Week 2: Process Flexibility and Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202)** 
   - [Unit 1: Creating a Process Template](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%201)
   - [Unit 3: Developing Business Rules](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%202/Unit%203)
-- Week 3 (*will follow*)
+- **[Week 3:  Process Flexibility and Visibility](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%203)** (*available by Monday, Nov 8*)
+  - [Unit 2: Building a Process Visibility Scenario End-to-End](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%203/Unit%202)
+  - [Unit 3: Creating and Consuming Live Process Content Packages](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%203/Unit%203)
 
 ## Course Requirements
 Basic knowledge of SAP Business Technology Platform
