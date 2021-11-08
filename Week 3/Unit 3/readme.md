@@ -1,4 +1,4 @@
-# Creating and Consuming Process Content Packages
+# Creating and Consuming Live Process Content Packages
 ## Table of Contents
 - [Create Workflow Management Content Package](#contentpackage)
     - [Overview](#overview)
