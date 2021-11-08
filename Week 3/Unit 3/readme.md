@@ -202,7 +202,7 @@ SAP Workflow Management provides real time visibility into processes and deploye
 1. Navigate to **Process Flexiblity Cockpit** and click on **Live Process Insights**.
 ![](images/LiveProcessInsightsTile.png)
 You will see status of your Workflow Instance including some key performance indicators you have modeled in the previous exercise. 
-> Remember: in the [last exercise the default frequency for scheduling interval has been defined with 5 minutes for this process visibility scenario](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%203/Unit%202#monitor-visibility-scenarios). So it might take some time until you see the running instances there.
+> Remember: in the [last exercise the default frequency for scheduling interval has been defined with 5 minutes for this process visibility scenario](https://github.com/SAP-samples/btp-workflow-management-opensap/tree/main/Week%203/Unit%202#monitoring-the-visibility-scenario). So it might take some time until you see the running instances there.
 ![](images/processvisibilityworkspace.png)
 
 ### Troubleshooting ###
