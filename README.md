@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-workflow-management-opensap)](https://api.reuse.software/info/github.com/SAP-samples/btp-workflow-management-opensap)
 
 # Improve Business Processes with SAP Workflow Management
