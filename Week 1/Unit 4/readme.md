@@ -539,7 +539,7 @@ Rework | `rework` | Neutral
 > This tutorial will use process attributes defined in the next exercise, and not use the ones defined on single workflow level. Adding those here is an optional learning opportunity. You may skip this step.
 
 1. Click on an empty area on the Workflow Editor to clear any active selection
-1. In the Properties pane, enter the `Busineyy Key` as `${context.RequestId}`
+1. In the Properties pane, enter the `Business Key` as `${context.RequestId}`
 1. Change both the `Subject` and the `Description` to `Approval Step` (with a space)
 
 ![](images/Properties-Workflow-1.png)
